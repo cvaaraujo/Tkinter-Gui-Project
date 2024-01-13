@@ -1,9 +1,3 @@
-# Follow me on Insta
-
-[![@_python.py_](https://raw.githubusercontent.com/Avii1099/Python-Tkinter-Gui-Project/master/Z_Insta_banner/insta.PNG "@_python.py_")](https://www.instagram.com/_python.py_/ "@_python.py_")
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avii1099&label=Profile%20views&color=0e75b6&style=flat" alt="avii1099" /> </p>
-
 ##  Email Sender(Gmail Clone)
 [Source Code](https://github.com/Avii1099/Python-Tkinter-Gui-Project/blob/master/Email_Sender/main.py)
 
